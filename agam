@@ -1,0 +1,21 @@
+margin-bottom: 20px;
+    }
+    @keyframes beat {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.2);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="heart">❤️</div>
+  <h1>Maaf ya, Sayang</h1>
+  <p>Aku nggak mau kamu marah terus. Aku sayang kamu dan ingin kita baik-baik saja.</p>
+  <button onclick="alert('Makasih sudah mau dengerin aku, sayang! 💕')">Aku Janji</button>
+</body>
+</html>
+```
+
